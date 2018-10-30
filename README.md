@@ -1,7 +1,9 @@
+# React Video Search using Youtube API
 
+Project-based Learning from Udemy's course - An intro to react
 
+## Start
 
-> git clone https://github.com/poojag21/React-JS.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+```sh
+npm install
+npm start
